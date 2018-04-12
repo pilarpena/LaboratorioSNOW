@@ -1,0 +1,2 @@
+# LaboratorioSNOW
+Fichero para laboratorio
